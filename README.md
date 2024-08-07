@@ -1,5 +1,5 @@
 # ECDM-inpainting
- Implementation of Eliminating the Cross Domain Misalignment in Text-guided Image Inpainting. The main body has been uploaded, but the running scripts will be released after further organization. Please stay tuned for updates to this repository.
+ Implementation of Eliminating the Cross Domain Misalignment in Text-guided Image Inpainting. The main body has been uploaded, and the running scripts will be released after further organization. Please stay tuned for updates to this repository.
 
 ## Introduction
 
